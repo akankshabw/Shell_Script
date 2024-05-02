@@ -1,4 +1,2 @@
-# Repository for CS253 assignments.
-## It contains two assignments:
-### 1) Car Rental System: *Based on OOPs programming and database management.*
-### 2) Shell Scripting: *Based on shell scripting.*
+# Shell Scripting Assignment
+This repository contains the code for the shell scripting assignment of CS253 offered by Prof. Indranil Saha in 2023-2024.
